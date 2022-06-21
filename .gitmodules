@@ -1,3 +1,6 @@
 [submodule "protoactor-dotnet"]
 	path = protoactor-dotnet
 	url = https://github.com/asynkron/protoactor-dotnet.git
+[submodule "protoactor-go"]
+	path = protoactor-go
+	url = https://github.com/asynkron/protoactor-go.git
